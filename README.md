@@ -3,10 +3,10 @@ Create a 30-second promotional animated video for a fictional product or service
 Include a brief project description outlining the concept, key design elements, and animation techniques used.
 
 # Team Members
-Ahmed Moharram Tawfik
-Sabah Ramadan Ahmed
-Nada Nasr Mohamed
-Lamiaa Medhat Elhosseny
+1- Ahmed Moharram Tawfik
+2- Sabah Ramadan Ahmed
+3- Nada Nasr Mohamed
+4- Lamiaa Medhat Elhosseny
 
 # Instructor
 Mr/ Galal Badr
