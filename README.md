@@ -9,10 +9,15 @@ Create a 30-second promotional animated video for a fictional product or service
 
 * **Objective:** Create a polished 30-second promotional motion graphics video highlighting social responsibility and urban comfort.
 * **Key Storyboard Flow:** 
-  1. A tired pedestrian struggling in a bustling Cairo street.
+  1. A tired pedestrian struggling in a bustling Cairo street (Zamalek).
   2. A push notification triggers the **Kursi** app on their smartphone.
   3. GPS routing guides the user to the nearest free resting spot at a local venue ("مقهى السعادة").
   4. The user sits down comfortably, showcasing the wider initiative across different city locations.
+
+---
+
+### 🎨 Storyboard Visual Flow
+![Kursi Storyboard](Storyboard.jpg)
 
 ---
 
