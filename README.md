@@ -21,6 +21,17 @@ Create a 30-second promotional animated video for a fictional product or service
 
 ---
 
+## 🎙️ Voiceover Script & Timing (Adobe Audition)
+
+| Scene | Time | Voiceover Script | Visual / After Effects Action |
+| :--- | :--- | :--- | :--- |
+| **Scene 1** | 00:00 - 00:07 | "يوم طويل.. مشي كتير.. وفي نص المشوار بتحس بالتعب وعاوز بس دقيقة ترتاح فيها.." | Wide shot of a crowded street, an elderly person walking slowly looking exhausted, with a thought bubble indicating fatigue[cite: 6]. |
+| **Scene 2** | 00:07 - 00:14 | "بس تلاقي فين مكان مجاني تقعد تحس فيه براحتك؟ الحل في تطبيق 'كرسي'!" | Smartphone appears with a slight vibration and a push notification showing the nearest resting place[cite: 6]. |
+| **Scene 3** | 00:14 - 00:21 | "بضغطة زرار، بيدلك على أقرب كرسي مجاني في طريقك، مقدم من أصحاب المتاجر والمصالح لدعم المارة." | GPS map interface on the mobile showing walking directions to "مقهى السعادة" (150 meters away)[cite: 6]. |
+| **Scene 4** | 00:21 - 00:30 | "امشي براحتك.. ومتشيلش هم التعب. مع كرسي.. رحلتك أسهل." | The person sits comfortably on the free chair drinking water, followed by a general view of several streets (Tahrir, Ramses Station) with the final app logo[cite: 6]. |
+
+---
+
 ## 👥 Team Members
 1. Ahmed Moharram Tawfik
 2. Sabah Ramadan Ahmed
