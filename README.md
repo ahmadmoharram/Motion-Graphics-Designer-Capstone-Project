@@ -4,6 +4,16 @@ Create a 30-second promotional animated video for a fictional product or service
 
 ---
 
+## 📊 Project Infographic
+
+Here is the official project showcase infographic for **Kursi (كرسي)**, summarizing our project identity, creative process, tools, deliverables, and impact:
+
+<p align="center">
+  <img src="Kursi Infographic.jpeg" alt="Kursi Capstone Project Infographic" width="100%">
+</p>
+
+---
+
 ## 📌 Project Idea: "Kursi" (كرسي)
 **"Kursi"** is a community-driven mobile application concept designed to solve a common urban challenge: pedestrian fatigue. The app connects walkers looking for a place to rest with local businesses, shops, and partner venues that offer free outdoor seating ("Kursi"). 
 
