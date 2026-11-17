@@ -27,7 +27,7 @@ Here is the official project showcase infographic for **Kursi (كرسي)**, summ
 ---
 
 ### 🎨 Storyboard Visual Flow
-![Kursi Storyboard](Storyboard.jpg)
+![Kursi Storyboard](Storybord.jpg)
 
 ---
 
