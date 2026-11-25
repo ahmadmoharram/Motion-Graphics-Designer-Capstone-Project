@@ -9,7 +9,7 @@ Create a 30-second promotional animated video for a fictional product or service
 Here is the official project showcase infographic for **Kursi (كرسي)**, summarizing our project identity, creative process, tools, deliverables, and impact:
 
 <p align="center">
-  <img src="Kursi Infographic.jpg" alt="Kursi Capstone Project Infographic" width="100%">
+  <img src="InfographicL.jpg" alt="Kursi Capstone Project Infographic" width="100%">
 </p>
 
 ---
@@ -27,7 +27,7 @@ Here is the official project showcase infographic for **Kursi (كرسي)**, summ
 ---
 
 ### 🎨 Storyboard Visual Flow
-![Kursi Storyboard](Storyboard.jpg)
+![Kursi Storyboard](StoryboardL.jpg)
 
 ---
 
